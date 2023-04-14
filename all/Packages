@@ -961,13 +961,13 @@ Priority: optional
 
 Package: enigma2-plugin-drivers-dvb-usb-dvbsky-classic
 Version: 2.0-r2
-Recommends: dvb-sky-module-dvb-usb-dvbsky, dvb-sky-module-dvb-usb-v2, dvb-sky-module-dvbsky-m88ds3103, dvb-sky-module-dvbsky-m88rs6000, dvb-sky-module-m88ds3103, dvb-sky-module-si2157, dvb-sky-module-si2168, dvb-sky-module-sit2fe, dvb-sky-module-ts2020, firmware-dvb-fe-ds3000, firmware-dvb-fe-ds3xxx, firmware-dvb-fe-si2168, firmware-dvb-usb-s660
+Recommends: firmware-dvb-fe-ds3000, firmware-dvb-fe-ds3xxx, firmware-dvb-fe-si2168, firmware-dvb-usb-s660, kernel-module-dvb-usb-dvbsky, kernel-module-dvb-usb-v2, kernel-module-dvbsky-m88ds3103, kernel-module-dvbsky-m88rs6000, kernel-module-m88ds3103, kernel-module-si2157, kernel-module-si2168, kernel-module-sit2fe, kernel-module-ts2020
 Section: base
 Architecture: all
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: bf7547c4ddc74390f48d99af4e5c9eca
-SHA256sum: 85c47f150ae296eddee61f413f4777b7bcb25646a185a6308137787cf9457df0
-Size: 744
+MD5Sum: e37091dbcdc7bbd59aa23ae008cac1b3
+SHA256sum: dad4297b1503b9e4b6c770f0248f861f9a7a8dd6b206d3a98c3bb496df02327a
+Size: 746
 Filename: enigma2-plugin-drivers-dvb-usb-dvbsky-classic_2.0-r2_all.ipk
 Source: enigma2-plugin-drivers-dvb-usb-dvbsky-classic.bb
 Description: USB DVB driver for DVB-SKY Family
@@ -1431,13 +1431,13 @@ Priority: optional
 
 Package: enigma2-plugin-drivers-dvb-usb-tbs
 Version: 1.1-r0
-Recommends: firmware-dvb-usb-tbs5925, firmware-dvb-usb-tbs5980, kernel-module-cx24116, kernel-module-dvb-usb-tbsusb, kernel-module-stb6000, kernel-module-stb6100, kernel-module-stv0288, kernel-module-stv0299, kernel-module-stv090x, kernel-module-tda10071
+Recommends: astra-sm, blindscan-s2, enigma2-plugin-systemplugins-blindscan, firmware-dvb-usb-tbs5925, firmware-dvb-usb-tbs5980, kernel-module-cx24116, kernel-module-dvb-usb-tbsusb, kernel-module-stb6000, kernel-module-stb6100, kernel-module-stv0288, kernel-module-stv0299, kernel-module-stv090x, kernel-module-tda10071
 Section: base
 Architecture: all
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: c00358994b897df666cdd67e335b63e6
-SHA256sum: 62e1a9fc4bff4fd125b9348c546b815debc859ceebe4d2dcbfbe8e3f74fe744c
-Size: 720
+MD5Sum: 27a744d722941262c30716de66ac0b47
+SHA256sum: 978a11a0e9e308eda94cf8b409aace64d00c12e91d2b2c4ad5865813624b9b27
+Size: 746
 Filename: enigma2-plugin-drivers-dvb-usb-tbs_1.1-r0_all.ipk
 Source: enigma2-plugin-drivers-dvb-usb-tbs.bb
 Description: enigma2-plugin-drivers-dvb-usb-tbs version 1.1-r0
@@ -3176,9 +3176,9 @@ Version: 1.xx+git12+3b62fb6-r1
 Section: base
 Architecture: all
 Maintainer: kiddac
-MD5Sum: f24fcf7087e78fc51c327661891ed239
-SHA256sum: c7614d9d87aeef7f03531d7df252798f12b385b1fa02d904325abebaab2744bf
-Size: 271164
+MD5Sum: b6cca996d51b96e13223a85644d5f21d
+SHA256sum: 05fa6987ecddc9b9c3df760a83247e695c4781025dca47d5b0a011604416b6bc
+Size: 271084
 Filename: enigma2-plugin-extensions-jediepgxtream_1.xx+git12+3b62fb6-r1_all.ipk
 Source: enigma2-plugin-extensions-jediepgxtream.bb
 Description: enigma2-plugin-extensions-jediepgxtream version 1.xx+gitAUTOINC+3b62fb6126-r1
@@ -3241,9 +3241,9 @@ Version: 1.xx+git143+8d45653-r1
 Section: base
 Architecture: all
 Maintainer: kiddac
-MD5Sum: ccc3c3982a2014fe3c49f5a9345dd2d1
-SHA256sum: 9cb91ffd1ce0ce00aced4b6b23ce5c351539b024b82287376fc2566c3c4421e0
-Size: 1708394
+MD5Sum: 35ca57d0ad00a1b3e434eeda6de05afc
+SHA256sum: fe759d2c0586e8d029456a48fe2dcefcb5a8a69891e0875dcefe40aa1ba4ae5e
+Size: 1708238
 Filename: enigma2-plugin-extensions-jedimakerxtream_1.xx+git143+8d45653-r1_all.ipk
 Source: enigma2-plugin-extensions-jedimakerxtream.bb
 Description: enigma2-plugin-extensions-jedimakerxtream version 1.xx+gitAUTOINC+8d456530bd-r1
@@ -4869,9 +4869,9 @@ Version: 0.4-r0
 Section: devel
 Architecture: all
 Maintainer: SatDreamGR
-MD5Sum: f6976bf0459315e054c82c64867f64f8
-SHA256sum: 9983952fff57c65df16ffc241e6fdfbb3e159c73b1ccf992e8ab8470f26b24c2
-Size: 678
+MD5Sum: 0b1e5734cf8152be19cc732ffb4f1195
+SHA256sum: 7591398f65fdd7329e33f181aabde79d237c8befd310dee0104fccc51beb14e0
+Size: 674
 Filename: livestreamersrv-dbg_0.4-r0_all.ipk
 Source: livestreamersrv_0.4.bb
 Description: livestreamersrv version 0.4-r0 - Debugging files
@@ -4886,9 +4886,9 @@ Recommends: livestreamersrv (= 0.4-r0), python3-core-dev, streamlink-dev
 Section: devel
 Architecture: all
 Maintainer: SatDreamGR
-MD5Sum: 4d4958128055ee38c2d2f7d6da8c8140
-SHA256sum: 0bf39bade349a0ce315ab907a64e730740a7087f73465c3e30ea48606e159916
-Size: 734
+MD5Sum: 39b1e4026640ec0eef4b092f63811ffd
+SHA256sum: 35f2821da64f7f8b4866e3a1558453273afe85d87fd1f0b31c1b7ca645d0236e
+Size: 730
 Filename: livestreamersrv-dev_0.4-r0_all.ipk
 Source: livestreamersrv_0.4.bb
 Description: livestreamersrv version 0.4-r0 - Development files
@@ -4903,9 +4903,9 @@ Depends: python3-core, streamlink
 Section: devel/python
 Architecture: all
 Maintainer: SatDreamGR
-MD5Sum: 02f2c71a7ef5b548b6f26d304de7ff40
-SHA256sum: f086579f6fe83f8e0a1395fa975036c8198b82a467986d8c6180604816bbea8c
-Size: 76666
+MD5Sum: 58a855173997a2529f5fa832e1160c3f
+SHA256sum: b05a3ada1c78088f6605ec6c2834d54bc80c64713eeed2bccbab7fc128873e76
+Size: 76660
 Filename: livestreamersrv_0.4-r0_all.ipk
 Source: livestreamersrv_0.4.bb
 Description: livestreamersrv version 0.4-r0
@@ -5314,8 +5314,8 @@ Version: 1.8.2+git22+e770243-r0
 Section: devel
 Architecture: all
 Maintainer: SatDreamGR Billy2011
-MD5Sum: d06b779cf70ea734c0f1d2220d0d1d30
-SHA256sum: 3d83e73940d0a359ccb864eefae7ed156a65af63ed3b6fd10084cdbd30e09ec4
+MD5Sum: 99a90129142189a0501f1834318c90e7
+SHA256sum: 95abeca25b0788668e25c37e514b78ff65e33cf7142c31880e455dc534f62b7c
 Size: 708
 Filename: streamlinksrv-dbg_1.8.2+git22+e770243-r0_all.ipk
 Source: streamlinksrv.bb
@@ -5331,8 +5331,8 @@ Recommends: python3-core-dev, streamlink-dev, streamlinksrv (= 1.8.2+git22+e7702
 Section: devel
 Architecture: all
 Maintainer: SatDreamGR Billy2011
-MD5Sum: 4566d18a8cd5be460d5ece7816f51a90
-SHA256sum: 1d08e15f854a85d299a706cf00ed8621489cc60c7598fc1811407facd63f8a78
+MD5Sum: f26793401a270713e0ad03a7a1585ec4
+SHA256sum: 3e3a0ff6ee4940a82073aa8a7aab515c632962bf913931743b5e362bffd7b2c3
 Size: 760
 Filename: streamlinksrv-dev_1.8.2+git22+e770243-r0_all.ipk
 Source: streamlinksrv.bb
@@ -5348,9 +5348,9 @@ Depends: python3-core, streamlink
 Section: devel/python
 Architecture: all
 Maintainer: SatDreamGR Billy2011
-MD5Sum: 9b3e1a8974e3634c5788c5b2a9196895
-SHA256sum: a62839a511a1877b440bdb55d3a8b7be6eaf6f3da2efafe1733cca9514a23af6
-Size: 83020
+MD5Sum: e9a0d4a7032cff08724f38a9e729135d
+SHA256sum: 5e5545679eb960ea2a31eafb874251b8e38e6a7e694644ca4d4353d2d29ec6f1
+Size: 83012
 Filename: streamlinksrv_1.8.2+git22+e770243-r0_all.ipk
 Source: streamlinksrv.bb
 Description: streamlinksrv version 1.8.2+gitAUTOINC+e770243cf4-r0
