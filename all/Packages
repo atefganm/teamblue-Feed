@@ -3375,14 +3375,14 @@ License: GPL-2.0-or-later
 Priority: optional
 
 Package: enigma2-plugin-extensions-serienrecorder-dbg
-Version: .4.6.0-18-g415ce17-git544+415ce17-r0
+Version: .4.6.0-20-g534aa4f-git546+534aa4f-r0
 Section: devel
 Architecture: all
 Maintainer: einfall & w22754 & egn & MacDisein
-MD5Sum: ca113983622489783a5751eacc20c563
-SHA256sum: 10d201348a4f289fedcd5457b5b48db1012607512c5eee154f65ec30b0d4cc23
-Size: 766
-Filename: enigma2-plugin-extensions-serienrecorder-dbg_.4.6.0-18-g415ce17-git544+415ce17-r0_all.ipk
+MD5Sum: b41192100aa6844138ae3e566493e581
+SHA256sum: fdf6b1d163d2d8c1eb4194fa539cdb80645e99ba5887ce40611a1c24f53b857d
+Size: 768
+Filename: enigma2-plugin-extensions-serienrecorder-dbg_.4.6.0-20-g534aa4f-git546+534aa4f-r0_all.ipk
 Source: enigma2-plugin-extensions-serienrecorder.bb
 Description: Erstellt automatisiert Timer fuer deine Lieblings-Serien - nie mehr eine Folge verpassen! - Debugging files
 OE: enigma2-plugin-extensions-serienrecorder
@@ -3391,15 +3391,15 @@ License: GPL-2.0-or-later
 Priority: optional
 
 Package: enigma2-plugin-extensions-serienrecorder-dev
-Version: .4.6.0-18-g415ce17-git544+415ce17-r0
-Recommends: enigma2-plugin-extensions-serienrecorder (= .4.6.0-18-g415ce17-git544+415ce17-r0), python3-email-dev, python3-json-dev, python3-sqlite3-dev, python3-xmlrpc-dev
+Version: .4.6.0-20-g534aa4f-git546+534aa4f-r0
+Recommends: enigma2-plugin-extensions-serienrecorder (= .4.6.0-20-g534aa4f-git546+534aa4f-r0), python3-email-dev, python3-json-dev, python3-sqlite3-dev, python3-xmlrpc-dev
 Section: devel
 Architecture: all
 Maintainer: einfall & w22754 & egn & MacDisein
-MD5Sum: 70e9fac7f2cec4642c0e8d3a9d6923cb
-SHA256sum: c4e135b1332256cfb9c2f94e44c1b19825fc776635b1303efb5b940f59605f3b
-Size: 838
-Filename: enigma2-plugin-extensions-serienrecorder-dev_.4.6.0-18-g415ce17-git544+415ce17-r0_all.ipk
+MD5Sum: f0c17dc98fd1e45b371e0e6fffa7e65f
+SHA256sum: 4684b74ef5058569e5641858be74a6dc9cdda8434a9a0f33e4aa9df80ab26c1b
+Size: 840
+Filename: enigma2-plugin-extensions-serienrecorder-dev_.4.6.0-20-g534aa4f-git546+534aa4f-r0_all.ipk
 Source: enigma2-plugin-extensions-serienrecorder.bb
 Description: Erstellt automatisiert Timer fuer deine Lieblings-Serien - nie mehr eine Folge verpassen! - Development files
 OE: enigma2-plugin-extensions-serienrecorder
@@ -3408,14 +3408,14 @@ License: GPL-2.0-or-later
 Priority: optional
 
 Package: enigma2-plugin-extensions-serienrecorder-src
-Version: .4.6.0-18-g415ce17-git544+415ce17-r0
+Version: .4.6.0-20-g534aa4f-git546+534aa4f-r0
 Section: devel
 Architecture: all
 Maintainer: einfall & w22754 & egn & MacDisein
-MD5Sum: 40d646be550c9ff0e9ef97c22e089708
-SHA256sum: d07e6f7d5334dfed02dbae9ccc405d8f00cbf66a0c5a2c40812330fc44825819
-Size: 171900
-Filename: enigma2-plugin-extensions-serienrecorder-src_.4.6.0-18-g415ce17-git544+415ce17-r0_all.ipk
+MD5Sum: 75401f83672c54f6044d0dd0659f7dd2
+SHA256sum: 6d70cf7ce6b904e20d01f9ac4bbb0647d98b0ad8bb5e7e0da038a3529d7c62e6
+Size: 171916
+Filename: enigma2-plugin-extensions-serienrecorder-src_.4.6.0-20-g534aa4f-git546+534aa4f-r0_all.ipk
 Source: enigma2-plugin-extensions-serienrecorder.bb
 Description: Erstellt automatisiert Timer fuer deine Lieblings-Serien - nie mehr eine Folge verpassen! - Source files
 OE: enigma2-plugin-extensions-serienrecorder
@@ -3424,15 +3424,15 @@ License: GPL-2.0-or-later
 Priority: optional
 
 Package: enigma2-plugin-extensions-serienrecorder
-Version: .4.6.0-18-g415ce17-git544+415ce17-r0
+Version: .4.6.0-20-g534aa4f-git546+534aa4f-r0
 Depends: python3-email, python3-json, python3-sqlite3, python3-xmlrpc
 Section: extra
 Architecture: all
 Maintainer: einfall & w22754 & egn & MacDisein
-MD5Sum: 7dc82f9bc9560e56148ac285f40144ca
-SHA256sum: 7c316258b63cd1840422434db3bf4848ddf84f21e38a4fdad4f16da3425f60c9
-Size: 722308
-Filename: enigma2-plugin-extensions-serienrecorder_.4.6.0-18-g415ce17-git544+415ce17-r0_all.ipk
+MD5Sum: e739c04ece83117726d3ae81055188f2
+SHA256sum: 5a905db005d7dfe377f4b0b2a886cc47a24928add353f58e22997899bbdc0bf0
+Size: 722448
+Filename: enigma2-plugin-extensions-serienrecorder_.4.6.0-20-g534aa4f-git546+534aa4f-r0_all.ipk
 Source: enigma2-plugin-extensions-serienrecorder.bb
 Description: Erstellt automatisiert Timer fuer deine Lieblings-Serien - nie mehr eine Folge verpassen!
 OE: enigma2-plugin-extensions-serienrecorder
@@ -5406,14 +5406,14 @@ License: GPL-2.0-or-later
 Priority: optional
 
 Package: tuxbox-common-dbg
-Version: 1.0+git829+ff20bb2-r0
+Version: 1.0+git830+1221415-r0
 Section: devel
 Architecture: all
 Maintainer: OE-Alliance team
-MD5Sum: d88ced84ef38d5c42f481042def2fdd3
-SHA256sum: 9855d539217f566788bf332934bb89aaec299166c984a7dbd5ad70bab77ca83d
+MD5Sum: b13782c1372a9677d24306cccd1540f2
+SHA256sum: bfa6d5b5f8a9c001ad6da495bcf029ef33efb38b41135fa92e619fdd12519ede
 Size: 656
-Filename: tuxbox-common-dbg_1.0+git829+ff20bb2-r0_all.ipk
+Filename: tuxbox-common-dbg_1.0+git830+1221415-r0_all.ipk
 Source: tuxbox-common_0.1.1.bb
 Description: Tuxbox common files - Debugging files
 OE: tuxbox-common
@@ -5421,15 +5421,15 @@ License: Proprietary
 Priority: optional
 
 Package: tuxbox-common-dev
-Version: 1.0+git829+ff20bb2-r0
-Recommends: tuxbox-common (= 1.0+git829+ff20bb2-r0)
+Version: 1.0+git830+1221415-r0
+Recommends: tuxbox-common (= 1.0+git830+1221415-r0)
 Section: devel
 Architecture: all
 Maintainer: OE-Alliance team
-MD5Sum: 33230acc139f1486f1c07d4e658f9ebe
-SHA256sum: 1ec1ef8055ea58491ecc476fd4e445dedbca441c15eb441755b21989aae99e90
-Size: 692
-Filename: tuxbox-common-dev_1.0+git829+ff20bb2-r0_all.ipk
+MD5Sum: c2ac0285f988cc943e29fba71c332984
+SHA256sum: c31a791ee64788f88355a01c74cd84503b0d6342d5eb7dcbdc77692ba075f173
+Size: 690
+Filename: tuxbox-common-dev_1.0+git830+1221415-r0_all.ipk
 Source: tuxbox-common_0.1.1.bb
 Description: Tuxbox common files - Development files
 OE: tuxbox-common
@@ -5437,14 +5437,14 @@ License: Proprietary
 Priority: optional
 
 Package: tuxbox-common
-Version: 1.0+git829+ff20bb2-r0
+Version: 1.0+git830+1221415-r0
 Section: base
 Architecture: all
 Maintainer: OE-Alliance team
-MD5Sum: 1e833d3542e541ae8e73e5a9178eec5b
-SHA256sum: ed32818f2bed449e3844316af7c5709d7d92290d090b7830981faa9f98a3dc33
-Size: 57780
-Filename: tuxbox-common_1.0+git829+ff20bb2-r0_all.ipk
+MD5Sum: 14cb90bf8b89021f45466ab77d4018c7
+SHA256sum: ccbd4a4cb2531aa1b7d8072ce741c9334f4cd29df3a444496654a32dd2a8836c
+Size: 57798
+Filename: tuxbox-common_1.0+git830+1221415-r0_all.ipk
 Source: tuxbox-common_0.1.1.bb
 Description: Tuxbox common files
 OE: tuxbox-common
