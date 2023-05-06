@@ -3058,65 +3058,65 @@ License: GPL-2.0-or-later
 Priority: optional
 
 Package: enigma2-plugin-extensions-e2piconizer-dbg
-Version: 1.xx+git51+45e85df-r1
+Version: 1.xx+git52+3e0e6b5-r1
 Section: devel
 Architecture: all
 Maintainer: kiddac
-MD5Sum: 4e3ce70d3e2cacfe5e3970085bc23c31
-SHA256sum: b844f93c445b71502e0409c5ec864249570a9ddc0fa8bd09a520f64641e05637
+MD5Sum: 9a96b46effbe3961a410abce9f4afdc6
+SHA256sum: 89d2e62fc54ceaae7b8e7da004881ba3079f401b8bfab3eeafc821944413e104
 Size: 730
-Filename: enigma2-plugin-extensions-e2piconizer-dbg_1.xx+git51+45e85df-r1_all.ipk
+Filename: enigma2-plugin-extensions-e2piconizer-dbg_1.xx+git52+3e0e6b5-r1_all.ipk
 Source: enigma2-plugin-extensions-e2piconizer.bb
-Description: enigma2-plugin-extensions-e2piconizer version 1.xx+gitAUTOINC+45e85df322-r1 - Debugging files
+Description: enigma2-plugin-extensions-e2piconizer version 1.xx+gitAUTOINC+3e0e6b52b1-r1 - Debugging files
 OE: enigma2-plugin-extensions-e2piconizer
 HomePage: https://github.com/kiddac/E2_Piconizer
 License: GPL-2.0-or-later
 Priority: optional
 
 Package: enigma2-plugin-extensions-e2piconizer-dev
-Version: 1.xx+git51+45e85df-r1
-Recommends: enigma2-plugin-extensions-e2piconizer (= 1.xx+git51+45e85df-r1)
+Version: 1.xx+git52+3e0e6b5-r1
+Recommends: enigma2-plugin-extensions-e2piconizer (= 1.xx+git52+3e0e6b5-r1)
 Section: devel
 Architecture: all
 Maintainer: kiddac
-MD5Sum: 9aaee4b6e759522ec23c9b0a52de8491
-SHA256sum: dcfc2aafd25a15f0470977a2e9da6c20a2a916c7a4b5d5da73d0049496e94cad
-Size: 768
-Filename: enigma2-plugin-extensions-e2piconizer-dev_1.xx+git51+45e85df-r1_all.ipk
+MD5Sum: 9ec461dfec7a23625963c7e015b7b575
+SHA256sum: 04a0c86259a3d1863a60c00d11eed4b0c24011f20c74d150ba63628b87c4735d
+Size: 766
+Filename: enigma2-plugin-extensions-e2piconizer-dev_1.xx+git52+3e0e6b5-r1_all.ipk
 Source: enigma2-plugin-extensions-e2piconizer.bb
-Description: enigma2-plugin-extensions-e2piconizer version 1.xx+gitAUTOINC+45e85df322-r1 - Development files
+Description: enigma2-plugin-extensions-e2piconizer version 1.xx+gitAUTOINC+3e0e6b52b1-r1 - Development files
 OE: enigma2-plugin-extensions-e2piconizer
 HomePage: https://github.com/kiddac/E2_Piconizer
 License: GPL-2.0-or-later
 Priority: optional
 
 Package: enigma2-plugin-extensions-e2piconizer-src
-Version: 1.xx+git51+45e85df-r1
+Version: 1.xx+git52+3e0e6b5-r1
 Section: devel
 Architecture: all
 Maintainer: kiddac
-MD5Sum: 2ad6bc0ede4528d95e94c5354c6cdcd6
-SHA256sum: 629fb64733554a37c6730fb8ba681f7a29e4bde693b63135675909d1310a56c4
-Size: 13004
-Filename: enigma2-plugin-extensions-e2piconizer-src_1.xx+git51+45e85df-r1_all.ipk
+MD5Sum: d7d495a113cf7139d4df4d45b4eb3347
+SHA256sum: ab0dfbb52700763cb9edbe7720c2ee58678bcd5c0189cc92718b53ce00ca23c1
+Size: 12476
+Filename: enigma2-plugin-extensions-e2piconizer-src_1.xx+git52+3e0e6b5-r1_all.ipk
 Source: enigma2-plugin-extensions-e2piconizer.bb
-Description: enigma2-plugin-extensions-e2piconizer version 1.xx+gitAUTOINC+45e85df322-r1 - Source files
+Description: enigma2-plugin-extensions-e2piconizer version 1.xx+gitAUTOINC+3e0e6b52b1-r1 - Source files
 OE: enigma2-plugin-extensions-e2piconizer
 HomePage: https://github.com/kiddac/E2_Piconizer
 License: GPL-2.0-or-later
 Priority: optional
 
 Package: enigma2-plugin-extensions-e2piconizer
-Version: 1.xx+git51+45e85df-r1
+Version: 1.xx+git52+3e0e6b5-r1
 Section: base
 Architecture: all
 Maintainer: kiddac
-MD5Sum: b1516cc592489b5c401b1cb2e8f700ff
-SHA256sum: c43aff58708d16095c8fe1cf16f67fb7c30ad7bd13f5ccf935e1349ae292db27
-Size: 1565876
-Filename: enigma2-plugin-extensions-e2piconizer_1.xx+git51+45e85df-r1_all.ipk
+MD5Sum: 6cd36238740328629635fc17cd7b9075
+SHA256sum: a22e30d55c555ae295919291fbd38a2588d6dfa5e1f62250e21cb93a2484693e
+Size: 1565174
+Filename: enigma2-plugin-extensions-e2piconizer_1.xx+git52+3e0e6b5-r1_all.ipk
 Source: enigma2-plugin-extensions-e2piconizer.bb
-Description: enigma2-plugin-extensions-e2piconizer version 1.xx+gitAUTOINC+45e85df322-r1
+Description: enigma2-plugin-extensions-e2piconizer version 1.xx+gitAUTOINC+3e0e6b52b1-r1
 OE: enigma2-plugin-extensions-e2piconizer
 HomePage: https://github.com/kiddac/E2_Piconizer
 License: GPL-2.0-or-later
@@ -3597,14 +3597,14 @@ License: GPL-2.0-or-later
 Priority: optional
 
 Package: enigma2-plugin-skins-kravenhd-dbg
-Version: 7.9.12+git22+342946d-r0
+Version: 7.9.12+git24+9723b5d-r0
 Section: devel
 Architecture: all
 Maintainer: Team Kraven
-MD5Sum: 09b592fb78391485bc883d8a5b728313
-SHA256sum: 97a42422d034c0764c1b3c9563a9acdb6ba28522eeb0c9450d1bed79069be9fa
+MD5Sum: be083936f52330812273197771f17538
+SHA256sum: 42dcf56912e86de06bad47915165d13ffc6afb18c88037b4f21b552bb150b1ee
 Size: 674
-Filename: enigma2-plugin-skins-kravenhd-dbg_7.9.12+git22+342946d-r0_all.ipk
+Filename: enigma2-plugin-skins-kravenhd-dbg_7.9.12+git24+9723b5d-r0_all.ipk
 Source: enigma2-plugin-skins-kravenhd.bb
 Description: KravenHD Skin for Enigma2 by Team Kraven - Debugging files
 OE: enigma2-plugin-skins-kravenhd
@@ -3612,15 +3612,15 @@ License: GPL-2.0-or-later
 Priority: optional
 
 Package: enigma2-plugin-skins-kravenhd-dev
-Version: 7.9.12+git22+342946d-r0
-Recommends: enigma2-plugin-skins-kravenhd (= 7.9.12+git22+342946d-r0), enigma2-plugin-systemplugins-mphelp-dev, python3-lxml-dev, python3-pillow-dev, python3-requests-dev
+Version: 7.9.12+git24+9723b5d-r0
+Recommends: enigma2-plugin-skins-kravenhd (= 7.9.12+git24+9723b5d-r0), enigma2-plugin-systemplugins-mphelp-dev, python3-lxml-dev, python3-pillow-dev, python3-requests-dev
 Section: devel
 Architecture: all
 Maintainer: Team Kraven
-MD5Sum: 9d4106a9702b155be99abb033ce23549
-SHA256sum: 4027fd2d0eb1d096875fa31add8d1306f8313caa65c3aa0d2ee254d5a18647bb
+MD5Sum: aa123d612eda02dc7fda05e07930bd4b
+SHA256sum: d65ec2e338ebd89a4d8eb651370f01be6f8630d6546e31f5652a693d8aad8eae
 Size: 754
-Filename: enigma2-plugin-skins-kravenhd-dev_7.9.12+git22+342946d-r0_all.ipk
+Filename: enigma2-plugin-skins-kravenhd-dev_7.9.12+git24+9723b5d-r0_all.ipk
 Source: enigma2-plugin-skins-kravenhd.bb
 Description: KravenHD Skin for Enigma2 by Team Kraven - Development files
 OE: enigma2-plugin-skins-kravenhd
@@ -3628,14 +3628,14 @@ License: GPL-2.0-or-later
 Priority: optional
 
 Package: enigma2-plugin-skins-kravenhd-src
-Version: 7.9.12+git22+342946d-r0
+Version: 7.9.12+git24+9723b5d-r0
 Section: devel
 Architecture: all
 Maintainer: Team Kraven
-MD5Sum: 29e4231bfae329606053f92cd35f03d4
-SHA256sum: 243fdd7d3c904ffe2b957db1501da181811c2a00ba655cf3a70c5d3c4f562245
-Size: 64368
-Filename: enigma2-plugin-skins-kravenhd-src_7.9.12+git22+342946d-r0_all.ipk
+MD5Sum: ff1f2af38db606cfa1a0821b6d0d76cd
+SHA256sum: 506e37eb2d56d2bab7b1c14814bbb0f8d17b860a6d0048bd6712531d3b8031eb
+Size: 65318
+Filename: enigma2-plugin-skins-kravenhd-src_7.9.12+git24+9723b5d-r0_all.ipk
 Source: enigma2-plugin-skins-kravenhd.bb
 Description: KravenHD Skin for Enigma2 by Team Kraven - Source files
 OE: enigma2-plugin-skins-kravenhd
@@ -3643,7 +3643,7 @@ License: GPL-2.0-or-later
 Priority: optional
 
 Package: enigma2-plugin-skins-kravenhd
-Version: 7.9.12+git22+342946d-r0
+Version: 7.9.12+git24+9723b5d-r0
 Depends: enigma2-plugin-systemplugins-mphelp, python3-lxml, python3-pillow, python3-requests
 Provides: enigma2-plugin-skins-kravenfhd, enigma2-plugin-skins-kravenvb
 Replaces: enigma2-plugin-skins-kravenfhd, enigma2-plugin-skins-kravenvb
@@ -3651,10 +3651,10 @@ Conflicts: enigma2-plugin-skins-kravenfhd, enigma2-plugin-skins-kravenvb
 Section: base
 Architecture: all
 Maintainer: Team Kraven
-MD5Sum: 66e2bd1092a65c0aa84668641d7d4342
-SHA256sum: 724901924caf3bff13bf3b42372eb4a8de834c7735e3b2640b7efc7826e6da1a
-Size: 3822066
-Filename: enigma2-plugin-skins-kravenhd_7.9.12+git22+342946d-r0_all.ipk
+MD5Sum: 515f481be6eb3f40c51240643b7b03eb
+SHA256sum: f3a8f717654f092c77097a17d9968870a73ff1c65d6faee784deaf619d5429c3
+Size: 3826518
+Filename: enigma2-plugin-skins-kravenhd_7.9.12+git24+9723b5d-r0_all.ipk
 Source: enigma2-plugin-skins-kravenhd.bb
 Description: KravenHD Skin for Enigma2 by Team Kraven
 OE: enigma2-plugin-skins-kravenhd
@@ -3662,14 +3662,14 @@ License: GPL-2.0-or-later
 Priority: optional
 
 Package: enigma2-plugin-skins-pax-dbg
-Version: 7.2+git66+50c9de3-r4
+Version: 7.2+git68+2843285-r4
 Section: devel
 Architecture: all
 Maintainer: teamblue
-MD5Sum: e4cd175acd8f46c80a0d8658e777e188
-SHA256sum: 7a0be87288bed6b53da546f531bb4957b7d6d31ad52e2ab933c61473bc2323ce
-Size: 668
-Filename: enigma2-plugin-skins-pax-dbg_7.2+git66+50c9de3-r4_all.ipk
+MD5Sum: d4e4796f63d441e51d9e21271fd18b6e
+SHA256sum: 146b122d8cd7996d8b6ce3adf825e64c158b5fe286fe364003200c562517b869
+Size: 670
+Filename: enigma2-plugin-skins-pax-dbg_7.2+git68+2843285-r4_all.ipk
 Source: enigma2-plugin-skins-pax.bb
 Description: GigaBlue Enigma2 Skin PAX - Debugging files
 OE: enigma2-plugin-skins-pax
@@ -3677,15 +3677,15 @@ License: GPL-2.0-or-later
 Priority: required
 
 Package: enigma2-plugin-skins-pax-dev
-Version: 7.2+git66+50c9de3-r4
-Recommends: enigma2-plugin-skins-pax (= 7.2+git66+50c9de3-r4)
+Version: 7.2+git68+2843285-r4
+Recommends: enigma2-plugin-skins-pax (= 7.2+git68+2843285-r4)
 Section: devel
 Architecture: all
 Maintainer: teamblue
-MD5Sum: 7cb642d92322fa547b2767c676cf039d
-SHA256sum: 63966fd662f8f9deb25bb70bc47d81c26e143ae31fa3d492db9d7783be99a93a
-Size: 704
-Filename: enigma2-plugin-skins-pax-dev_7.2+git66+50c9de3-r4_all.ipk
+MD5Sum: 5c54d355e749e635f06bc4e92df5a0ea
+SHA256sum: 08cea2cd971368158bc7ea2b0ee143769b134e674c64260ede43c74148fa4672
+Size: 706
+Filename: enigma2-plugin-skins-pax-dev_7.2+git68+2843285-r4_all.ipk
 Source: enigma2-plugin-skins-pax.bb
 Description: GigaBlue Enigma2 Skin PAX - Development files
 OE: enigma2-plugin-skins-pax
@@ -3693,14 +3693,14 @@ License: GPL-2.0-or-later
 Priority: required
 
 Package: enigma2-plugin-skins-pax-v2-dbg
-Version: 7.2+git66+50c9de3-r1
+Version: 7.2+git68+2843285-r1
 Section: devel
 Architecture: all
 Maintainer: teamblue
-MD5Sum: 502f10d237a22c0b923da006b07660c5
-SHA256sum: f6a8990a33b973e87506491e0f0f0603eef29688ab31c04b6692f66f3921ba57
+MD5Sum: aa40c098ba0fe52c9429c18b5c3a2f7a
+SHA256sum: dac059e8f070110f9ae215e148fd4f60e27fac636c2d0652cc7ca51310b30dba
 Size: 672
-Filename: enigma2-plugin-skins-pax-v2-dbg_7.2+git66+50c9de3-r1_all.ipk
+Filename: enigma2-plugin-skins-pax-v2-dbg_7.2+git68+2843285-r1_all.ipk
 Source: enigma2-plugin-skins-pax-v2.bb
 Description: GigaBlue Enigma2 Skin PAX V2 - Debugging files
 OE: enigma2-plugin-skins-pax-v2
@@ -3708,15 +3708,15 @@ License: GPL-2.0-or-later
 Priority: required
 
 Package: enigma2-plugin-skins-pax-v2-dev
-Version: 7.2+git66+50c9de3-r1
-Recommends: enigma2-plugin-skins-pax-v2 (= 7.2+git66+50c9de3-r1), python3-lxml-dev, python3-requests-dev
+Version: 7.2+git68+2843285-r1
+Recommends: enigma2-plugin-skins-pax-v2 (= 7.2+git68+2843285-r1), python3-lxml-dev, python3-requests-dev
 Section: devel
 Architecture: all
 Maintainer: teamblue
-MD5Sum: fef14f1774d638451349ede7e450c326
-SHA256sum: 2363537f5a366d18623aec9156ccff1bb77d55bf80c2ac75464687a09e65f76a
-Size: 728
-Filename: enigma2-plugin-skins-pax-v2-dev_7.2+git66+50c9de3-r1_all.ipk
+MD5Sum: da26d270a44fa262608ef5aff1a6c260
+SHA256sum: a841bd881d8554ff864d6378a747f4624ec382641e004785598328950088a9aa
+Size: 732
+Filename: enigma2-plugin-skins-pax-v2-dev_7.2+git68+2843285-r1_all.ipk
 Source: enigma2-plugin-skins-pax-v2.bb
 Description: GigaBlue Enigma2 Skin PAX V2 - Development files
 OE: enigma2-plugin-skins-pax-v2
@@ -3724,15 +3724,15 @@ License: GPL-2.0-or-later
 Priority: required
 
 Package: enigma2-plugin-skins-pax-v2
-Version: 7.2+git66+50c9de3-r1
+Version: 7.2+git68+2843285-r1
 Depends: python3-lxml, python3-requests
 Section: base
 Architecture: all
 Maintainer: teamblue
-MD5Sum: 229f1debe35b36a46da7df8b6a0c27b9
-SHA256sum: 23cd602161e8c5a3c5ffe1e684082e2b6d9aad313f5a7354dae2ecd01c8df207
-Size: 1978548
-Filename: enigma2-plugin-skins-pax-v2_7.2+git66+50c9de3-r1_all.ipk
+MD5Sum: f332c0b208e46061b83b620bee17026a
+SHA256sum: c1c3fd78c91e99224771a52ac20372fbff9431fdfd5999a4794ae32e33d55ede
+Size: 1979438
+Filename: enigma2-plugin-skins-pax-v2_7.2+git68+2843285-r1_all.ipk
 Source: enigma2-plugin-skins-pax-v2.bb
 Description: GigaBlue Enigma2 Skin PAX V2
 OE: enigma2-plugin-skins-pax-v2
@@ -3740,14 +3740,14 @@ License: GPL-2.0-or-later
 Priority: required
 
 Package: enigma2-plugin-skins-pax
-Version: 7.2+git66+50c9de3-r4
+Version: 7.2+git68+2843285-r4
 Section: base
 Architecture: all
 Maintainer: teamblue
-MD5Sum: 46818a8b6b8dd901dbf8e7bc61c89ee6
-SHA256sum: 5e79e1ae1e1d33e68f84cfde24918c2475e5d618f668700b0ee3b5b827c7bcd4
-Size: 1978422
-Filename: enigma2-plugin-skins-pax_7.2+git66+50c9de3-r4_all.ipk
+MD5Sum: 80859754a3feddec7a8250ca58303f13
+SHA256sum: 2d92c1b22af8ddd8677f43d178e9963a8b6ec2742d7cd118a9a0b1da24dfa463
+Size: 1979600
+Filename: enigma2-plugin-skins-pax_7.2+git68+2843285-r4_all.ipk
 Source: enigma2-plugin-skins-pax.bb
 Description: GigaBlue Enigma2 Skin PAX
 OE: enigma2-plugin-skins-pax
@@ -3847,14 +3847,14 @@ License: Proprietary
 Priority: optional
 
 Package: enigma2-plugin-skins-teambluehd-dbg
-Version: 7.2+git17+b271f86-r1
+Version: 7.2+git18+8442a69-r1
 Section: devel
 Architecture: all
 Maintainer: oerlgrey
-MD5Sum: 0f09af358f856d309057566dfc838009
-SHA256sum: 1afbb156545014c402615b61e98abd20419ea6e05f95aea33bd0323bf64ef26e
-Size: 668
-Filename: enigma2-plugin-skins-teambluehd-dbg_7.2+git17+b271f86-r1_all.ipk
+MD5Sum: ea36c0b45c9a54ac7432335d70905c4b
+SHA256sum: bbf60d325536f42aad2aa4c54a2259f7ac38f62e84b3ae8441d29e7afafd6803
+Size: 670
+Filename: enigma2-plugin-skins-teambluehd-dbg_7.2+git18+8442a69-r1_all.ipk
 Source: enigma2-plugin-skins-teambluehd.bb
 Description: GigaBlueHD Enigma2 Skin  - Debugging files
 OE: enigma2-plugin-skins-teambluehd
@@ -3862,15 +3862,15 @@ License: GPL-2.0-or-later
 Priority: required
 
 Package: enigma2-plugin-skins-teambluehd-dev
-Version: 7.2+git17+b271f86-r1
-Recommends: enigma2-plugin-skins-teambluehd (= 7.2+git17+b271f86-r1)
+Version: 7.2+git18+8442a69-r1
+Recommends: enigma2-plugin-skins-teambluehd (= 7.2+git18+8442a69-r1)
 Section: devel
 Architecture: all
 Maintainer: oerlgrey
-MD5Sum: 9f660e8010e07fbbdc133ca684989697
-SHA256sum: 2f1031b639405d10e19f72b147c268b200e7d3f1d7850f613e096b0d41d62236
-Size: 706
-Filename: enigma2-plugin-skins-teambluehd-dev_7.2+git17+b271f86-r1_all.ipk
+MD5Sum: 90af5bf236961dda188790a8a2f8953c
+SHA256sum: c95effa972cb1d86ee4938bb3bc26f461fbd6aa3615f59323f165d9e784c06d0
+Size: 708
+Filename: enigma2-plugin-skins-teambluehd-dev_7.2+git18+8442a69-r1_all.ipk
 Source: enigma2-plugin-skins-teambluehd.bb
 Description: GigaBlueHD Enigma2 Skin  - Development files
 OE: enigma2-plugin-skins-teambluehd
@@ -3878,14 +3878,14 @@ License: GPL-2.0-or-later
 Priority: required
 
 Package: enigma2-plugin-skins-teambluehd
-Version: 7.2+git17+b271f86-r1
+Version: 7.2+git18+8442a69-r1
 Section: base
 Architecture: all
 Maintainer: oerlgrey
-MD5Sum: c35e2f1d1ff987b737d4cbe257135393
-SHA256sum: 0b6663f79a68573a9b62554cdcb7616a9882f38fcc31da3c01bbd71723a111d8
-Size: 957590
-Filename: enigma2-plugin-skins-teambluehd_7.2+git17+b271f86-r1_all.ipk
+MD5Sum: a37ca0a7d08f71a7e835299c02713671
+SHA256sum: 1ba66e6ad2f03c6d829fe95f00ebefe0928156e27810339399d8a673cae2c7d2
+Size: 958528
+Filename: enigma2-plugin-skins-teambluehd_7.2+git18+8442a69-r1_all.ipk
 Source: enigma2-plugin-skins-teambluehd.bb
 Description: GigaBlueHD Enigma2 Skin
 OE: enigma2-plugin-skins-teambluehd
@@ -5108,14 +5108,14 @@ Version: 3.7.3-r0
 Section: devel
 Architecture: all
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 867696b5b321767b845f3f42b5af5a64
-SHA256sum: 1ed99427d5ee35eb53ba77bd8a68fad35b93d58d57f8ca850c3b5a0e2f126984
-Size: 718
+MD5Sum: a9fa6dde0090dd36d5fe9bba31c04c31
+SHA256sum: f59443249443cea5a5a6076e789bbfd63bea2de329a53fdf4de5f87273ae9890
+Size: 728
 Filename: openresolv-dbg_3.7.3-r0_all.ipk
 Source: openresolv_3.7.3.bb
 Description: management framework for resolv.conf - Debugging files
 OE: openresolv
-HomePage: http://roy.marples.name/projects/openresolv
+HomePage: https://github.com/NetworkConfiguration/openresolv/tags
 License: BSD-2-Clause
 Priority: optional
 
@@ -5125,14 +5125,14 @@ Recommends: openresolv (= 3.7.3-r0)
 Section: devel
 Architecture: all
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 98574880de7aaf95069d245b1c499165
-SHA256sum: c2a3913ff618640a524fa0d22eb47977b3568e39c4e9934ed082b627f6006276
-Size: 746
+MD5Sum: c744a06a13cb1819f2ac3d69a9a12e48
+SHA256sum: 659302ca4a51fee5da09bd527a2aaf265a6b758d5f2b73f0fb53eb0f7d3461ba
+Size: 756
 Filename: openresolv-dev_3.7.3-r0_all.ipk
 Source: openresolv_3.7.3.bb
 Description: management framework for resolv.conf - Development files
 OE: openresolv
-HomePage: http://roy.marples.name/projects/openresolv
+HomePage: https://github.com/NetworkConfiguration/openresolv/tags
 License: BSD-2-Clause
 Priority: optional
 
@@ -5141,14 +5141,14 @@ Version: 3.7.3-r0
 Section: doc
 Architecture: all
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: c7bf53838c4f42c76848068e8eeee16d
-SHA256sum: 069eedc510a80a270cf1adb14c2b055f73142332f559800f35e99d74e6feb60c
-Size: 6572
+MD5Sum: 9c5715d57a4cd2200becb8da00e62972
+SHA256sum: 3f4a0628ecddb0f2ee092e4fa07e711d6325be4d8cf9808f787596dc1940b6ed
+Size: 6582
 Filename: openresolv-doc_3.7.3-r0_all.ipk
 Source: openresolv_3.7.3.bb
 Description: management framework for resolv.conf - Documentation files
 OE: openresolv
-HomePage: http://roy.marples.name/projects/openresolv
+HomePage: https://github.com/NetworkConfiguration/openresolv/tags
 License: BSD-2-Clause
 Priority: optional
 
@@ -5159,14 +5159,14 @@ Conflicts: resolvconf
 Section: base
 Architecture: all
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: f948b4513eeef3ddc5b95be8e3b4681b
-SHA256sum: ed365a6cf6b7858d9cf3d30126695b2d5e91296437497a33e424c153512b1273
-Size: 11258
+MD5Sum: 4ed849ec70783c60471fa3eabd92d5ac
+SHA256sum: 6f64a910ccce82c50f518bd1205575ddf6598108299531acf69dd8ce2772917e
+Size: 11266
 Filename: openresolv_3.7.3-r0_all.ipk
 Source: openresolv_3.7.3.bb
 Description: management framework for resolv.conf
 OE: openresolv
-HomePage: http://roy.marples.name/projects/openresolv
+HomePage: https://github.com/NetworkConfiguration/openresolv/tags
 License: BSD-2-Clause
 Priority: optional
 
@@ -5406,14 +5406,14 @@ License: GPL-2.0-or-later
 Priority: optional
 
 Package: tuxbox-common-dbg
-Version: 1.0+git830+1221415-r0
+Version: 1.0+git836+eb6f14a-r0
 Section: devel
 Architecture: all
 Maintainer: OE-Alliance team
-MD5Sum: b13782c1372a9677d24306cccd1540f2
-SHA256sum: bfa6d5b5f8a9c001ad6da495bcf029ef33efb38b41135fa92e619fdd12519ede
+MD5Sum: 825704972778adccb4126058fa93b825
+SHA256sum: 1f27bd7d7af6a8bc69aeb6ef6151c5844eddf6da4d17ffd533690fa45c8d1bc3
 Size: 656
-Filename: tuxbox-common-dbg_1.0+git830+1221415-r0_all.ipk
+Filename: tuxbox-common-dbg_1.0+git836+eb6f14a-r0_all.ipk
 Source: tuxbox-common_0.1.1.bb
 Description: Tuxbox common files - Debugging files
 OE: tuxbox-common
@@ -5421,15 +5421,15 @@ License: Proprietary
 Priority: optional
 
 Package: tuxbox-common-dev
-Version: 1.0+git830+1221415-r0
-Recommends: tuxbox-common (= 1.0+git830+1221415-r0)
+Version: 1.0+git836+eb6f14a-r0
+Recommends: tuxbox-common (= 1.0+git836+eb6f14a-r0)
 Section: devel
 Architecture: all
 Maintainer: OE-Alliance team
-MD5Sum: c2ac0285f988cc943e29fba71c332984
-SHA256sum: c31a791ee64788f88355a01c74cd84503b0d6342d5eb7dcbdc77692ba075f173
-Size: 690
-Filename: tuxbox-common-dev_1.0+git830+1221415-r0_all.ipk
+MD5Sum: a3f1a02545a2748fa8a5d186c3468930
+SHA256sum: 737e48370a95f496560a7ad1afecc58a93f9d55adfba52eb25ce88b1550eb3e8
+Size: 692
+Filename: tuxbox-common-dev_1.0+git836+eb6f14a-r0_all.ipk
 Source: tuxbox-common_0.1.1.bb
 Description: Tuxbox common files - Development files
 OE: tuxbox-common
@@ -5437,14 +5437,14 @@ License: Proprietary
 Priority: optional
 
 Package: tuxbox-common
-Version: 1.0+git830+1221415-r0
+Version: 1.0+git836+eb6f14a-r0
 Section: base
 Architecture: all
 Maintainer: OE-Alliance team
-MD5Sum: 14cb90bf8b89021f45466ab77d4018c7
-SHA256sum: ccbd4a4cb2531aa1b7d8072ce741c9334f4cd29df3a444496654a32dd2a8836c
-Size: 57798
-Filename: tuxbox-common_1.0+git830+1221415-r0_all.ipk
+MD5Sum: 9072fc0ebc2a71e5cf7cf110c523040f
+SHA256sum: a43eea891890e98fb774769c82c82dc6b04f9ff56088e26651f720a6b41c918c
+Size: 57384
+Filename: tuxbox-common_1.0+git836+eb6f14a-r0_all.ipk
 Source: tuxbox-common_0.1.1.bb
 Description: Tuxbox common files
 OE: tuxbox-common
