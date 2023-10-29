@@ -54,7 +54,7 @@ HomePage: tunisia-sat.com,dreamoem.com
 Priority: optional
 
 Package: enigma2-plugin-extensions-skyrecorder
-Version: 2.1.1d-py3
+Version: 2.1.3-py3
 Depends: libsqlite3-0, python3-sqlite3, python3-html, python3-json, python3-requests
 Provides: enigma2-plugin-extensions-skyrecorder
 Replaces: enigma2-plugin-extensions-skyanytime
@@ -62,10 +62,10 @@ Conflicts: enigma2-plugin-extensions-skyanytime
 Section: misc
 Architecture: all
 Maintainer: einfall greysky matzze2000 dre Hilfsbereit murxer Fitz'
-MD5Sum: 4f3d74ad5c287be28ee738c46ff37bc9
-SHA256sum: 12f4436b7bd0707b9a73bc6b74985ab4b33b4f9951379e2bb649037b2c919035
-Size: 391346
-Filename: enigma2-plugin-extensions-skyrecorder_2.1.1d-py3_all.ipk
+MD5Sum: 5697303ba813119d5308fb47ff7a17c4
+SHA256sum: 20b0b15b83ee8d3a0dcdce2d72ac9d707d1e05fc44731078a02884c512bdb4b5
+Size: 392230
+Filename: enigma2-plugin-extensions-skyrecorder_2.1.3-py3_all.ipk
 Description: SkyRecorder - a plugin to add automatically timers for new SKY broadcasts - using API to download coverfiles from TMDB - change to FHD Skins
 HomePage: https://www.opena.tv/openatv-7-0-py3-9-openssl-1-1-1-entwicklung/56627-skyrecorder-fuer-python-3-a.html
 Priority: optional
@@ -98,23 +98,5 @@ Source: none
 Description: plugin, for the free streaming.
 OE: OE2.0
 HomePage: *
-Priority: optional
-
-Package: enigma2-plugin-extensions-xeaio
-Version: 3.2.8
-Depends: python3-json, python3-sqlite3
-Recommends: enigma2-plugin-systemplugins-serviceapp, openvpn
-Section: base
-Architecture: all
-Maintainer: XE
-MD5Sum: 1605e1dc9df5a9dc276181ac3eed3de2
-SHA256sum: 4c02daab14ed13b8cc775174b41c946d39a119b7c329ef9c1426533d2bcdac4a
-Size: 177916
-Filename: enigma2-plugin-extensions-xeaio_3.2.8_all.ipk
-Source: none
-Description: XE Plugin
-OE: enigma2-plugins
-HomePage: unknown
-License: Proprietary
 Priority: optional
 
